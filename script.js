@@ -3,7 +3,7 @@
 // ============================================
 
 // Google Apps Script 웹앱 URL (배포 후 여기에 URL을 입력하세요)
-const APPS_SCRIPT_URL = 'YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz1AlzyyterLhh8GXn0T-1JufzY5Eb4MJJaqu5DJf4MvhPjy42Z0caGM5xWV3wJidr2Jw/exec';
 
 // DOM이 로드된 후 실행
 document.addEventListener('DOMContentLoaded', function() {
